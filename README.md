@@ -1,3 +1,4 @@
+![hbnb](https://github.com/samuelkassa/AirBnB_clone/assets/46082464/8a4cb91d-b554-43a5-b76e-83025d691c3e)
 # Welcome to the AirBnB clone project
 This project includes four parts
 # FrontEnd
