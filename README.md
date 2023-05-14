@@ -1,5 +1,5 @@
 # AirBnB Clone ― The ALX-Africa BnB
-![Optional Text](https://github.com/samuelkassa/AirBnB_clone/wiki/hbnb.png)
+![Optional Text](https://photos.app.goo.gl/zzmEsM2J9Qqgx9ZV8)
 ## Description of the project
 The AirBnB clone project sums up the implementation of our four months of studies at the ALX-Africa School - the fullstack software engineering program.
 The goal of the project is to deploy a replica of the [Airbnb Website](https://www.airbnb.com/) using our own server. The final version of this project will have:
