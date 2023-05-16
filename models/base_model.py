@@ -10,6 +10,7 @@ import models
 class BaseModel:
     """Custom base for all the classes in the AirBnb console project
 
+
     Arttributes:
         id(str): handles unique user identity
         created_at: assigns current datetime
@@ -65,7 +66,7 @@ class BaseModel:
 
     def to_dict(self):
         """
-        Method returns a dictionary containing all 
+        Method returns a dictionary containing all
         keys/values of __dict__ instance
         """
         map_objects = {}
