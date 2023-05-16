@@ -1,4 +1,4 @@
-#!/user/bin/python3
+#!/usr/bin/python3
 """
 The console v: 0.0.1
 Contains the entry point of the command interpreter
@@ -278,4 +278,3 @@ class HBNBCommand(cmd.Cmd):
 if __name__ == '__main__':
     cli = HBNBCommand()
     cli.cmdloop()
-~
